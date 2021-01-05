@@ -1,0 +1,304 @@
+/*navbar*/
+
+#navbar {
+    background-color: rgb(90, 124, 216);
+
+}
+
+#navbar li a {
+    color: rgb(245, 236, 236);
+    font-size: 1.5rem;
+    letter-spacing: 2.5px;
+    margin: 0 10px;
+
+}
+
+#navbar li a:hover {
+    color: rgb(253, 248, 243);
+    font-size: 1.5rem;
+    letter-spacing: 1.5px;
+    margin: 0 10px;
+    
+}
+
+
+#headJumbo {
+    color:rgb(245, 47, 185)
+    
+
+}
+
+#headJumbo {
+        
+        height:120px;
+        width:auto;
+    
+
+}
+
+#headJumbo h1 {
+    font-size: 5rem;
+    text-shadow: 2px 2px 5px rgb(70, 39, 128);
+
+}
+
+#headJumbo h3 {
+    font-size: 3rem;
+    font-family:inherit
+
+}
+
+#headJumbo h3 {
+     font-size: 3rem;
+     color: rgb(219, 115, 17);   
+     
+}
+
+body {
+    background-color: rgb(241, 107, 30);
+  }
+
+/*Paragraphs about me on homepage*/
+
+#aboutMe {
+        margin-top: 60px;
+        color: rgb(8, 6, 7);
+        font-size: 1.2rem;
+        text-align:justify;
+    
+}
+
+/*Font Awesome Icons*/
+
+#skills svg.svg-inline--fa {
+    font-size: 4rem;
+    margin: auto;
+    color:rgb(62, 226, 171)
+    margin-top: 10px;
+}
+
+#skills svg.svg-inline--fa:hover {
+    color: rgb(248, 117, 51);!important;
+    margin-top: 10px;
+    font-size: 4.3rem
+
+}
+
+/*Recent Experience*/
+
+#RecentWork h1 {
+    font-size: 2rem;
+    margin-top: 30px;
+    color: rgb(14, 7, 13);
+    text-decoration:underline rgb(248, 117, 51);
+    text-shadow: 2px 2px 5px rgb(70, 39, 128);
+
+}
+
+#RecentWork h3 {
+    font-size: 1.7rem;
+    color: rgb(212, 93, 14);
+    text-shadow: 2px 2px 5px rgb(70, 39, 128);
+
+    
+}
+
+#RecentWork h4 {
+    font-size: 1.5rem;
+    color: rgb(216, 16, 216);
+    font-style: italic
+
+}
+
+#RecentWork h6 {
+    font-size: 1.2rem;
+    text-align: justify;
+
+
+}
+
+/*Cards*/
+
+#Qualifications .card {
+    margin-top: 10px;
+    box-shadow: 1px 1px 1px rgb(202, 17, 178);
+
+}
+
+
+#Qualifications {
+    margin-top: 20px;
+
+}
+
+.card-header {
+    background-color: rgb(243, 38, 236);
+    color: rgb(10, 7, 3)
+
+}
+
+.card-header {
+    font-weight: bold;
+    margin-top: 20px
+
+}
+
+#footer {
+
+ background-color: white;
+ color: rgb(212, 93, 14);
+     
+     margin-top:80px;
+    
+}
+
+/*Skills Page*/
+
+#skillspage svg.svg-inline--fa {
+    font-size: 4rem;
+    text-shadow: 2px 2px 5px rgb(70, 39, 128);
+    margin: auto;
+    color:rgb(3, 10, 8);
+    margin-top: 10px;
+}
+
+#skillspage svg.svg-inline--fa:hover {
+    color: rgb(248, 117, 51)!important;
+    margin-top:30px; 
+    font-size:4.3rem
+
+}
+
+#skillspagetext h3 {
+    font-size: 2rem;
+    text-shadow: 2px 2px 5px rgb(70, 39, 128);
+    margin-top: 30px;
+    margin-bottom: 20px;
+    color: rgb(14, 7, 13);
+    text-decoration:underline rgb(248, 117, 51);
+
+}
+
+#skillspagetext {
+    margin-top: 30px;
+    color: black;
+    font-size: 1.2rem;
+    
+}
+
+#qualificationspage h1 {
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    color: rgb(14, 7, 13);
+    text-decoration:underline rgb(248, 117, 51);
+    text-shadow: 2px 2px 5px rgb(70, 39, 128);
+
+}
+
+#Qualifications .card {
+    margin-top: 10px;
+    box-shadow: 2px 2px 2px rgb(233, 104, 30);
+
+}
+
+#qualificationspagecards {
+    margin-top: 10px;
+    box-shadow: 2px 2px 2px rgb(248, 154, 31);
+    
+}
+
+#jobduties h1 {
+    font-size: 2rem;
+    color: rgb(14, 7, 13);
+    text-decoration:underline rgb(248, 117, 51);
+    text-shadow: 2px 2px 5px rgb(70, 39, 128);
+
+}
+
+#jobduties h2 {
+    font-size: 1.5rem;
+    
+}
+
+#jobduties h3 {
+    font-size: 1rem;
+    color: rgb(8, 8, 8); 
+
+}
+
+
+#jobduties h4 {
+    font-size: 1rem;
+    color: rgb(8, 8, 8);
+
+}
+
+#socket {
+    font-size: 1rem;
+    color: lightsalmon;
+}
+
+#hobbiespage h3 {
+    font-size: 2rem;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    color: rgb(14, 7, 13);
+    text-decoration:underline rgb(248, 117, 51);
+    text-shadow: 2px 2px 5px rgb(70, 39, 128);
+
+}
+
+#hobbiespage1 {
+    font-size: 1.2rem;
+
+}
+
+#hobbiespage2 {
+    color: rgb(11, 14, 17);
+        text-align: left;
+      
+}
+
+#contactmepage {
+    margin-top: 30px;
+    color: black;
+    font-size: 1.2rem;
+}
+
+#contactmepage h3 {
+    margin-top: 20px;
+    margin-bottom: 30px;
+    color: rgb(14, 7, 13);
+    text-decoration:underline rgb(248, 117, 51);
+    text-shadow: 2px 2px 5px rgb(70, 39, 128);
+    font-size: 2rem;
+}
+
+#contactmepage2 {
+
+    background-color: rgb(233, 234, 245);
+    color: rgb(212, 93, 14);
+    font-size: 4rem;
+    text-align: center;
+    
+}
+    
+#contactmepage3 {
+
+            background-color: white;
+            color: rgb(212, 93, 14);
+            margin-top:40px;
+            text-align: center justify center;
+               
+}
+
+#socketfont {
+font-size: 1rem;
+text-align: center;
+
+}
+
+#ProfessionalDevelopment h2 {
+
