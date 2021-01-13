@@ -16,14 +16,14 @@
 #navbar li a:hover {
     color: rgb(253, 248, 243);
     font-size: 1.5rem;
-    letter-spacing: 1.5;
+    letter-spacing: 1.5px;
     margin: 0 10px;
     
 }
 
 
 #headJumbo {
-    color:rgb(245, 47, 185)
+    color:rgb(202, 43, 176)
     
 
 }
@@ -37,7 +37,7 @@
 }
 
 #headJumbo h1 {
-    font-size: 5rem;
+    font-size: 6rem;
     text-shadow: 2px 2px 5px rgb(70, 39, 128);
 
 }
@@ -55,7 +55,7 @@
 }
 
 body {
-    background-color: rgb(241, 107, 30);
+    background-color: rgb(21, 13, 133);
   }
 
 /*Paragraphs about me on homepage*/
@@ -117,41 +117,6 @@ body {
 
 }
 
-/*Cards*/
-
-#Qualifications .card {
-    margin-top: 10px;
-    box-shadow: 1px 1px 1px rgb(202, 17, 178);
-
-}
-
-
-#Qualifications {
-    margin-top: 20px;
-
-}
-
-.card-header {
-    background-color: rgb(243, 38, 236);
-    color: rgb(10, 7, 3)
-
-}
-
-.card-header {
-    font-weight: bold;
-    margin-top: 20px
-
-}
-
-#footer {
-
- background-color: white;
- color: rgb(212, 93, 14);
-     
-     margin-top:80px;
-    
-}
-
 /*Skills Page*/
 
 #skillspage svg.svg-inline--fa {
@@ -165,61 +130,92 @@ body {
 #skillspage svg.svg-inline--fa:hover {
     color: rgb(248, 117, 51)!important;
     margin-top:30px; 
-    font-size:4.3rem
+    font: size 5;rem
 
 }
 
-#skillspagetext h3 {
-    font-size: 2rem;
-    text-shadow: 2px 2px 5px rgb(70, 39, 128);
-    margin-top: 30px;
-    margin-bottom: 20px;
-    color: rgb(14, 7, 13);
-    text-decoration:underline rgb(248, 117, 51);
-
-}
-
-#skillspagetext {
-    margin-top: 30px;
-    color: black;
-    font-size: 1.2rem;
-    
-}
-
-#qualificationspage h1 {
-    text-align: center;
-    font-size: 2rem;
-    margin-top: 50px;
+#skillsnew5 h3 {
+    margin-top: 20px;
     margin-bottom: 30px;
     color: rgb(14, 7, 13);
     text-decoration:underline rgb(248, 117, 51);
     text-shadow: 2px 2px 5px rgb(70, 39, 128);
-
-}
-
-#Qualifications .card {
-    margin-top: 10px;
-    box-shadow: 2px 2px 2px rgb(233, 104, 30);
-
-}
-
-#qualificationspagecards {
-    margin-top: 10px;
-    box-shadow: 2px 2px 2px rgb(248, 154, 31);
-    
-}
-
-#jobduties h1 {
     font-size: 2rem;
+
+}
+
+#skillsnew5text {
+    margin-top: 60px;
+    color: rgb(8, 6, 7);
+    font-size: 1.2rem;
+    text-align:justify;
+
+
+}
+
+
+#qualificationspagetext {
+    color: rgb(23, 14, 71);
+    font-size: 1.2rem;
+
+}
+
+
+#qualificationspagetext h2 {
+    margin-bottom: 10px;
+    color: rgb(236, 18, 236);
+    font-size: 2rem;
+}
+
+#qualificationspagetext h4 {
+  
+    color: rgb(233, 105, 19);
+    font-size: 1.6rem;
+}
+
+#qualificationspagetext h3 {
+   
+    margin-top: 30px;
+    margin-bottom: 10px;
     color: rgb(14, 7, 13);
     text-decoration:underline rgb(248, 117, 51);
     text-shadow: 2px 2px 5px rgb(70, 39, 128);
+    font-size: 2rem;
+}
+
+#qualificationspagetext h5{
+    color: rgb(56, 19, 105);
 
 }
 
-#jobduties h2 {
-    font-size: 1.5rem;
+
+#workhistory2 h3 { 
+    margin-top: 20px;
+    margin-bottom: 30px;
+    color: rgb(14, 7, 13);
+    text-decoration:underline rgb(248, 117, 51);
+    text-shadow: 2px 2px 5px rgb(70, 39, 128);
+    font-size: 2rem;
+}
+
+#workhistory2 {
+    font-size: 1.2rem;
+    color: black;
     
+}
+
+#workhistory2  h2{
+color: rgb(228, 28, 178);
+
+}
+
+#workhistory2 h4{
+    color: rgb(248, 97, 10);
+
+}
+
+#workhistory2 h5{
+color: darkslateblu;
 }
 
 #jobduties h3 {
@@ -228,10 +224,33 @@ body {
 
 }
 
-
 #jobduties h4 {
     font-size: 1rem;
     color: rgb(8, 8, 8);
+
+}
+
+#professionaldevelopment h3 {
+    margin-top: 40px;
+    margin-bottom: 30px;
+    color: rgb(14, 7, 13);
+    text-decoration:underline rgb(248, 117, 51);
+    text-shadow: 2px 2px 5px rgb(70, 39, 128);
+    font-size: 2rem;
+}
+
+#professionaldevelopment h2 {
+    color: rgb(228, 28, 178);
+}
+
+#professionaldevelopment h4 {
+    color: rgb(24, 15, 107);
+
+}
+
+#professionaldevelopment h5 {
+    font-size: 1.2rem;
+    color: black;
 
 }
 
@@ -241,12 +260,13 @@ body {
 }
 
 #hobbiespage h3 {
-    font-size: 2rem;
-    margin-top: 30px;
+    margin-top: 20px;
     margin-bottom: 30px;
     color: rgb(14, 7, 13);
     text-decoration:underline rgb(248, 117, 51);
     text-shadow: 2px 2px 5px rgb(70, 39, 128);
+    font-size: 2rem;
+}
 
 }
 
@@ -258,6 +278,7 @@ body {
 #hobbiespage2 {
     color: rgb(11, 14, 17);
         text-align: left;
+        font-size: 1.2rem;
       
 }
 
@@ -268,8 +289,8 @@ body {
 }
 
 #contactmepage h3 {
-    margin-top: 20px;
-    margin-bottom: 30px;
+    margin-top: 10px;
+    margin-bottom: 20px;
     color: rgb(14, 7, 13);
     text-decoration:underline rgb(248, 117, 51);
     text-shadow: 2px 2px 5px rgb(70, 39, 128);
@@ -299,6 +320,3 @@ font-size: 1rem;
 text-align: center;
 
 }
-
-#ProfessionalDevelopment h2 {
-
